@@ -1,0 +1,26 @@
+Dear Hiring Manager,
+
+I am applying for the Application Support Engineer position at Gemini, bringing a robust technical background that aligns closely with your requirements.
+Key Qualifications:
+
+Extensive experience in technical support across multiple platforms.
+Proven track record of developing multi-platform applications.
+Advanced skills in system configuration, database management, and operational tool development.
+Strong communication and problem-solving capabilities.
+
+Professional Highlights:
+At Information Technology Solutions, I developed a telehealth application using diverse technologies (Dart, C#, TypeScript) with complex API integrations. My technical support experience spans OS troubleshooting, database configuration, and server management across multiple environments.
+Specific Alignment with Role:
+
+Unix terminal proficiency and system performance measurement
+SQL database experience and query writing
+Python scripting skills
+API documentation and integration expertise
+Cloud infrastructure management (Azure, Docker, CI/CD)
+
+My entrepreneurial experience at AlgoPulse Research demonstrates my ability to build operational tools, manage complex technical systems, and communicate effectively with cross-functional teams.
+
+I am excited about the opportunity to contribute to Gemini's innovative digital asset exchange platform.
+
+Best,
+Josh Hughes
