@@ -1,0 +1,32 @@
+Dear Hiring Manager,
+
+With 3+ years of enterprise technical support experience and a proven track record in customer relationship management, I'm uniquely qualified for the Premium Support Engineer role at Collibra.
+At Information Technology Solutions, I:
+
+- Managed complex enterprise support tickets while maintaining 98% customer satisfaction
+- Developed and documented a multi-platform healthcare application from scratch
+- Configured SSO integrations and handled SQL database management
+- Created technical documentation and customer training materials
+- Built automated solutions using Python, Bash, and PowerShell to streamline support processes
+
+At AlgoPulse Research, I demonstrated:
+
+- Deep technical expertise in system architecture and API integrations
+- Ability to translate complex technical concepts for diverse stakeholders
+- Proactive problem-solving through automated monitoring and alert systems
+- Documentation of best practices and knowledge base creation
+
+Technical Proficiencies:
+
+- Enterprise application development, support, and troubleshooting
+- REST API development and integration
+- SQL database management and optimization
+- VM/Docker containerization expertise
+- Python and JavaScript scripting
+
+Your emphasis on methodical problem-solving and customer relationship building aligns perfectly with my approach to technical support. I excel at building trust with enterprise clients while delivering actionable technical solutions.
+I'm particularly drawn to Collibra's commitment to customer success and the opportunity to serve as a technical advisor for premium accounts. My experience in both development and support positions me well to bridge the gap between customer needs and technical solutions.
+I look forward to discussing how my technical expertise and customer-focused approach can contribute to Collibra's Premium Support team.
+
+Regards,
+Josh Hughes
