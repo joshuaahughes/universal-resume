@@ -1,0 +1,16 @@
+Dear Hiring Manager,
+
+Your search for a Support Engineer at Confiant caught my attention, as it perfectly aligns with my background in technical support and web development. My experience spans both customer-facing roles and deep technical implementation, making me uniquely qualified to bridge the gap between Confiant's technical teams and customers.
+
+During my tenure at Information Technology Solutions, I've developed a robust understanding of JavaScript and web technologies while supporting enterprise-level applications. I regularly debug complex technical issues using debugging utilities, skills that would translate directly to troubleshooting ad technology implementations. My role has involved extensive collaboration with development teams to resolve customer issues, leading to numerous improvements in our company’s functionality and user experience.
+
+At AlgoPulse Research, I further honed my technical abilities by building and supporting web-based trading systems. This experience included implementing and debugging real-time data feeds, optimizing website performance, and creating comprehensive technical documentation. The role demanded clear communication of complex technical concepts to non-technical customers, a skill crucial for explaining Confiant's value proposition to prospects.
+
+What particularly excites me about this opportunity is Confiant's position at the intersection of advertising technology and security. My background in both customer support and technical implementation would allow me to serve as an effective bridge between your technical teams and customers, while my investigative mindset would help uncover and resolve complex issues in the ad tech ecosystem.
+
+I'm particularly drawn to your emphasis on accountability and transparency, values that have guided my own professional development. When working with customers, I believe in setting clear expectations and maintaining open communication throughout the problem-resolution process.
+
+I would welcome the opportunity to discuss how my technical support experience and customer-centric approach could contribute to Confiant's continued success.
+
+Best regards,
+Josh Hughes

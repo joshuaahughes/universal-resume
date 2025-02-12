@@ -1,0 +1,9 @@
+Dear Hiring Manager,
+I'm excited to apply for the Support Engineer II role. As someone who's been deep in the trenches of technical support and development, I know firsthand what it takes to tackle complex customer issues while maintaining high service quality.
+At Information Technology Solutions, I've worn multiple hats - from handling enterprise-level customer support to developing full-stack applications. I've become an expert at debugging network issues, managing Linux environments, and writing automation scripts in Python and PowerShell. When customers reported recurring VPN connectivity issues, I developed a monitoring system that preemptively identified potential failures, reducing our incident response time by 60%.
+Your emphasis on self-starters who can work independently resonates with me. At AlgoPulse, I built automated trading systems from the ground up, including implementing real-time data processing through webhooks and REST APIs. This required deep understanding of network protocols and security - skills that directly apply to Web3 infrastructure.
+I'm particularly intrigued by your scale - handling 10 billion monthly requests requires both technical expertise and systematic problem-solving. My experience with cloud infrastructure (Azure, Docker) and automation has taught me how to tackle issues at scale while maintaining documentation that helps the entire team learn and improve.
+While I'm new to blockchain specifically, I'm well-versed in the underlying technologies like JSON-RPC and secure API implementations. I learn new technologies quickly - for example, I picked up Terraform and Azure DevOps within weeks to improve our deployment processes.
+I'd love to discuss how my background in technical support and system architecture could help strengthen your customer support operations.
+Thanks for considering my application,
+Josh Hughes
