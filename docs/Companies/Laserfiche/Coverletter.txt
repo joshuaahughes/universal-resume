@@ -1,0 +1,24 @@
+Josh Hughes
+josh@datagainz.com
+(970) 778-8405
+
+June 23, 2025
+
+Laserfiche
+Hiring Manager
+Remote Position
+
+Dear Hiring Manager,
+
+Your Support Engineer opening immediately caught my attention because it perfectly combines my passion for solving complex technical problems with my desire to work with software that makes a real impact across industries. Having supported customers in healthcare, finance, and government sectors, I understand how critical reliable technical support is when organizations depend on software for their daily operations.
+
+My experience at Information Technology Solutions has given me exactly the skillset Laserfiche needs. I've spent over three years providing customer-facing technical support, troubleshooting everything from database systems and TCP/IP networking issues to web application problems across Windows and Linux environments. What sets me apart is my ability to quickly identify root causes—whether it's diagnosing Azure cloud infrastructure issues, resolving PostgreSQL database performance problems, or scripting PowerShell solutions that save hours of manual work. I regularly collaborate with software engineering teams to escalate complex issues and have developed custom diagnostic tools that improved our troubleshooting efficiency by over 100 hours company-wide.
+
+Your emphasis on post-issue analysis and continuous improvement resonates strongly with my approach to technical support. At AlgoPulse Research, I built comprehensive monitoring systems for our trading platform, implemented automated diagnostics, and created detailed documentation that became the foundation for our support processes. My programming experience spans Python, C#, JavaScript, and PowerShell—skills I've used to create scripts that automate repetitive tasks and enhance system reliability. Additionally, my experience with cloud-based services and system administration has prepared me to contribute meaningfully to your SaaS environment and DevOps processes.
+
+I'm particularly excited about the mentoring aspect of this role and the opportunity to work with Solution Providers across diverse industries. The 6 AM to 3 PM Eastern schedule works perfectly with my location in Colorado, and I'm eager to contribute to Laserfiche's 24/7 support mission while developing strong relationships with both customers and internal teams.
+
+I'd welcome the chance to discuss how my technical expertise and customer-focused approach can help maintain the high service standards your customers expect.
+
+Sincerely,
+Josh Hughes

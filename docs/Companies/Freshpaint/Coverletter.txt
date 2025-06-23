@@ -1,0 +1,24 @@
+Josh Hughes
+josh@datagainz.com
+(970) 778-8405
+
+June 23, 2025
+
+Freshpaint
+Hiring Manager
+Remote Position
+
+Dear Hiring Manager,
+
+When I learned about Freshpaint's mission to help healthcare companies navigate the complex intersection of patient data and marketing compliance, it immediately resonated with my experience building technical solutions for healthcare providers. Having developed a multi-platform telehealth application that required careful handling of sensitive patient information while integrating with Microsoft Teams and Twilio APIs, I understand the critical balance between functionality and HIPAA compliance that your customers face daily.
+
+My three years as a Junior Full Stack Developer at Information Technology Solutions has given me exactly the technical foundation Freshpaint needs. I regularly dive into codebases to diagnose customer issues, work with JavaScript, Python, and SQL to resolve complex technical problems, and collaborate closely with engineering teams to ensure seamless customer experiences. What excites me most about technical support is that detective work—researching problems thoroughly, understanding the architecture, and translating complex technical concepts into clear solutions for customers. Recently, I resolved a critical database migration issue for a healthcare client by debugging their PostgreSQL integration and creating custom scripts that prevented similar issues across our entire customer base.
+
+Your emphasis on being the "voice of the customer" particularly appeals to me because of my entrepreneurial background with AlgoPulse Research. Building my own customer-facing platform taught me that the best technical solutions come from deeply understanding user needs and pain points. I've contributed to product roadmaps based on customer feedback, created comprehensive technical documentation, and mentored team members on best practices. My experience spans both front-end and back-end technologies, and I thrive in environments where I can take ownership of problems and figure things out independently while knowing when to collaborate for the best customer outcome.
+
+What draws me to Freshpaint specifically is your role in democratizing healthcare marketing while protecting patient privacy—it's meaningful work that directly impacts patient care access. Your fully remote, high-ownership culture aligns perfectly with my self-directed work style, and I'm excited about the opportunity to contribute to one of the fastest-growing software companies addressing such a critical healthcare challenge.
+
+I'd love to discuss how my technical skills and customer-first mindset can help Freshpaint continue exceeding customer expectations while scaling your impact in healthcare.
+
+Sincerely,
+Josh Hughes

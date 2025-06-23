@@ -1,0 +1,14 @@
+Dear Axonius Hiring Team,
+
+When I learned about the Technical Support Engineer position at Axonius through your careers page, I was immediately drawn to your mission of solving complex cybersecurity challenges and your commitment to being a remote-first company that values career growth. As someone who has spent over three years providing technical support while developing full-stack applications and earning Employee of the Year recognition twice, I'm excited about the opportunity to bring my troubleshooting expertise to your global technical support team.
+
+Your emphasis on "one-touch resolution" particularly resonates with me. In my current role at Information Technology Solutions, I've handled escalations ranging from OS troubleshooting across multiple platforms to complex database migrations and third-party software issues. My experience with RESTful APIs, including Microsoft Teams bookings API and Twilio integrations, has taught me how to debug API connectivity issues and build effective troubleshooting workflows. I'm proficient in Python scripting, having used it extensively for automation and cloud infrastructure deployment with TerraformCDK, which aligns perfectly with your preferred qualifications.
+
+What excites me most about this role is the opportunity to contribute to both customer success and knowledge base development. I've created custom PowerShell scripts that saved over 100 hours of company time and have experience documenting complex technical processes for diverse audiences. My background with Linux administration through production server builds, combined with my networking knowledge from configuring Cisco and Unifi routers and VPN troubleshooting, gives me the foundation needed for network-level troubleshooting in enterprise environments. Additionally, my experience with PostgreSQL and other database platforms directly supports your database troubleshooting requirements.
+
+I'm particularly impressed by Axonius's focus on career growth and your comprehensive benefits package, including the learning and development stipend. Your commitment to supporting employees' long-term career paths aligns with my desire to continuously expand my technical expertise while delivering exceptional customer experiences.
+
+I'd welcome the opportunity to discuss how my technical problem-solving skills and customer-centric approach can contribute to your team's success.
+
+Best regards,
+Josh Hughes

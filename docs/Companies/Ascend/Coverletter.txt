@@ -1,0 +1,14 @@
+Dear Ascend Hiring Team,
+
+I was excited to discover the Technical Support Engineer position at Ascend, particularly your company's mission of leveraging AI and powerful ERP integrations to save enterprise customers tens of millions of dollars annually. As someone who has spent over three years providing technical support while building complex database-driven applications, I'm drawn to the opportunity to help household names like NASCAR and Panera Bread maximize the value of your innovative Ascend AP platform.
+
+Your emphasis on maintaining 98% SLA adherence and 95% CSAT scores perfectly aligns with my track record at Information Technology Solutions, where I've earned Employee of the Year recognition twice for delivering exceptional customer experiences. My proficiency in SQL and PostgreSQL, gained through extensive database configuration, migration, and optimization work, directly supports your requirement for diagnosing and resolving customer issues across these technologies. Additionally, my experience with JavaScript and JSON through multi-platform application development, combined with my background analyzing application logs for troubleshooting complex technical issues, positions me well to handle the diverse technical challenges your customers face.
+
+What excites me most about this role is the opportunity to serve as a trusted problem-solver and advisor while collaborating with cross-functional teams to improve product usability. My experience building internal tools and automation scripts that saved over 100 hours of company time demonstrates my commitment to process improvement and workflow optimization. Having provided customer support ranging from database troubleshooting to complex API integrations, I understand the importance of empathetic communication and timely resolution in maintaining customer loyalty and trust.
+
+I'm particularly impressed by Ascend's fully remote culture and your commitment to employee growth through the Lifelong Learning & Wellness Allowance. Your emphasis on Diversity, Equity & Inclusion, along with generous benefits like 12 weeks of paid parental leave, reflects the kind of values-driven organization where I thrive. Located in the Eastern Time zone and experienced in supporting customers through multiple channels including email, phone, and video conferences, I'm well-positioned to deliver the exceptional support experiences that drive Ascend's continued success.
+
+I'd welcome the opportunity to discuss how my technical expertise and customer-first approach can contribute to maintaining Ascend's industry-leading support standards.
+
+Best regards,
+Josh Hughes

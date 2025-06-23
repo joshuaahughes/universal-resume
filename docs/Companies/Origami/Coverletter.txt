@@ -1,0 +1,14 @@
+Dear Origami Risk Hiring Team,
+
+I was excited to discover the Technical Support Engineer (Technical Consultant) position at Origami Risk, particularly given your company's reputation for delivering innovative SaaS solutions that help organizations navigate complex risk management challenges. As someone who has spent over three years designing and implementing software solutions while providing tier 3 technical support, I'm drawn to your singular focus on client success and the opportunity to lead technical aspects of full software implementations.
+
+Your emphasis on hands-on configuration and system implementation perfectly aligns with my experience at Information Technology Solutions, where I've developed multi-platform applications using JavaScript, C#, and TypeScript while managing complex database configurations and migrations. My proficiency in SQL, including PostgreSQL optimization and data conversion work, directly supports your requirements for data integrations, conversions, and report design. Additionally, my experience with XML processing through API integrations and my background in building custom automation scripts demonstrate the technical skills needed for system configuration and workflow strategy development.
+
+What excites me most about this role is the opportunity to transform data into meaningful insights through report and dashboard design. At AlgoPulse Research, I've developed comprehensive learning platforms and built automated systems that process complex data patterns, giving me the analytical foundation needed to filter and clean data while identifying configuration issues. My experience training clients on software platforms, combined with my proven ability to create process documentation and conduct technical presentations, aligns perfectly with your user training and client communication responsibilities.
+
+I'm particularly impressed by Origami Risk's commitment to being an industry leader in configurable, intuitive, and scalable risk management technology. Your hybrid work environment and comprehensive benefits package, including the education assistance program, demonstrate the kind of growth-oriented culture where I thrive. Having earned Employee of the Year recognition twice, I understand the importance of client success and technical excellence in software delivery.
+
+I'd welcome the opportunity to discuss how my technical implementation experience and client focused approach can contribute to Origami Risk's continued success in delivering award-winning solutions.
+
+Best regards,
+Josh Hughes

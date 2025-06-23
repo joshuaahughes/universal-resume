@@ -1,0 +1,24 @@
+Josh Hughes
+JoshuaAHughes12@gmail.com
+(970) 778-8405
+
+June 23, 2025
+
+Mixpanel
+Hiring Manager
+San Francisco, CA
+
+Dear Hiring Manager,
+
+When I discovered Mixpanel's Support Engineer opening, I was immediately excited by your mission to democratize data insights for builders everywhere. As someone who's spent years helping customers navigate complex technical challenges while building my own analytics-driven trading platform, I understand the power of making data accessible and actionable for decision-makers at every level.
+
+My experience at Information Technology Solutions has given me deep expertise in customer-facing technical support, where I regularly help users debug complex issues across multiple platforms and APIs. What excites me most about technical problem-solving is that moment when you transform a customer's frustration into genuine understanding—I've guided healthcare professionals through telehealth app integrations, troubleshot database migrations, and created custom scripts that eliminated repetitive workflows. My programming background in Python, JavaScript, and C# allows me to quickly understand technical concepts and communicate solutions with both clarity and patience, whether I'm writing documentation or walking someone through an API integration over chat.
+
+What draws me to Mixpanel specifically is your commitment to continuous learning and cross-functional collaboration. At AlgoPulse Research, I developed automated trading systems while building educational content that helped users understand complex financial concepts—much like how Mixpanel transforms raw data into actionable insights. I've collaborated closely with engineering teams to resolve technical issues, documented feature requests that became product improvements, and mentored team members on best practices. Your global, diverse support team environment appeals to me because I thrive on learning from different perspectives while advocating for customer success.
+
+I'm particularly excited about the opportunity to become a Mixpanel product expert and shape your product through direct customer feedback. The possibility of working closely with PMs and engineers to incorporate customer learnings aligns perfectly with my passion for bridging technical solutions with real business impact.
+
+I'd love to discuss how my technical skills and customer-first mindset can contribute to Mixpanel's continued success in empowering builders worldwide.
+
+Sincerely,
+Josh Hughes

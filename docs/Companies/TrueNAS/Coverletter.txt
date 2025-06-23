@@ -1,0 +1,14 @@
+Dear TrueNAS Hiring Team,
+
+I was immediately drawn to the Tier 2 Hardware Support Engineer position at TrueNAS, particularly your company's mission of "people before profit" and your leadership in open source storage solutions. As someone who has spent over three years providing technical support while building and maintaining both cloud and on-premises production server environments, I'm excited about the opportunity to bring my troubleshooting expertise to support your world-renowned TrueNAS platform.
+
+Your emphasis on advanced support of escalation cases perfectly aligns with my experience at Information Technology Solutions, where I've served as an internal escalation point for high-complexity issues while providing direct technical support to customers. My hands-on experience with Linux administration through production server builds, combined with my background in configuring and troubleshooting varied database systems including PostgreSQL, has prepared me for the complex hardware and software interoperability challenges this role demands. Additionally, my experience constructing server environments using CI/CD practices and Python automation demonstrates the systematic approach needed for enterprise data center hardware troubleshooting.
+
+What excites me most about this opportunity is the chance to work with cutting-edge storage technologies and contribute to TrueNAS's technical capabilities through knowledge-sharing. My networking experience includes configuring Cisco and Unifi routers, VPN troubleshooting, and understanding of network architectures—skills directly applicable to supporting high-performance computing solutions. Having earned Employee of the Year recognition twice, I understand the importance of providing professional, timely expert support while maintaining strong customer focus during complex technical investigations.
+
+I'm particularly impressed by TrueNAS's commitment to open source innovation and your collaborative, remote-first culture that values career growth and mentorship opportunities. Your kaizen philosophy of continuous improvement resonates with my approach to technical problem-solving and process optimization. While my experience spans three years rather than the preferred seven, my proven ability to quickly master complex technologies, combined with my hands-on server administration background and strong troubleshooting competency across diverse technical categories, positions me well to grow into this role.
+
+I'd welcome the opportunity to discuss how my technical expertise and passion for customer success can contribute to TrueNAS's continued leadership in the storage industry.
+
+Best regards,
+Josh Hughes

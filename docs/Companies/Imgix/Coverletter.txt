@@ -1,0 +1,14 @@
+Dear Imgix Hiring Team,
+
+When I discovered the Support Engineer position at Imgix, I was immediately excited about the opportunity to combine my technical support expertise with your cutting-edge image management platform. As someone who has spent over three years delivering technical solutions to diverse audiences while building full-stack applications, I'm drawn to Imgix's mission of empowering businesses to deliver exceptional visual experiences globally.
+
+Your emphasis on delivering solutions to both technical and non-technical users perfectly aligns with my experience at Information Technology Solutions, where I've handled everything from complex API integrations to customer onboarding support. I've worked extensively with REST APIs, including Microsoft Teams bookings API and Twilio integrations, giving me the foundation needed to write code samples and provide best-practice recommendations for API usage. My proficiency in JavaScript, TypeScript, and CSS—combined with experience building multi-platform applications—directly supports your requirement for web technologies expertise. Additionally, I've used React-based frameworks in my telehealth application development, making me well-positioned to assist customers with modern web framework integrations.
+
+What excites me most about this role is the opportunity to develop internal tools and processes that improve team efficiency. I've created custom automation scripts using Python and PowerShell that saved over 100 hours of company time, demonstrating my ability to identify improvement areas and deliver practical solutions. My experience with SQL databases, including PostgreSQL optimization and migration work, aligns with your database requirements. Having earned Employee of the Year recognition twice, I understand the importance of responsive communication and deep product knowledge in delivering exceptional technical support.
+
+I'm particularly intrigued by Imgix's focus on emerging technologies like generational AI for images and videos. My background in quantitative analysis and machine learning research at AlgoPulse Research, where I work with complex data patterns and predictive modeling, has prepared me to learn and adapt to new media technologies quickly.
+
+I'd welcome the opportunity to discuss how my technical problem-solving skills and passion for customer success can contribute to Imgix's continued growth.
+
+Best regards,
+Josh Hughes

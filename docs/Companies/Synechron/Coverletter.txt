@@ -1,0 +1,14 @@
+Dear Synechron Hiring Team,
+
+I was excited to discover the Payments Support Engineer position at Synechron, particularly given your company's reputation for delivering industry-leading digital solutions to top-tier financial services firms. While my background spans full-stack development and technical support rather than traditional payments infrastructure, I believe my proven ability to troubleshoot complex systems and build automation solutions positions me uniquely for this challenging role.
+
+What draws me to this opportunity is the technical depth required for payment processing systems. In my current role at Information Technology Solutions, I've developed expertise in monitoring transaction flows and proactively resolving system disruptions—skills directly transferable to ATM, POS, and RTP transaction monitoring. My experience with API integrations, including complex message parsing and routing systems, has prepared me for the ISO 8583 and XML message handling this role demands. Additionally, I've worked extensively with PostgreSQL databases and built custom scripts using PowerShell and Python, demonstrating the SQL and scripting capabilities essential for payment operations support.
+
+My technical foundation includes Unix/Linux administration through production server builds, middleware integration experience with various APIs, and proven incident management skills. Having earned Employee of the Year recognition twice, I understand the critical importance of maintaining SLAs and service levels in high-stakes environments. My background in CI/CD practices and change control processes aligns with the deployment coordination responsibilities, while my experience troubleshooting complex multi-platform applications translates well to deep-dive analysis on production incidents.
+
+I'm particularly drawn to Synechron's commitment to innovation through your FinLabs research initiatives and your focus on modernization technologies. Your global presence and recognition as a top employer demonstrate the kind of collaborative, growth-oriented environment where I thrive.
+
+I would welcome the opportunity to discuss how my technical problem-solving skills and passion for learning can contribute to your payments operations team's success.
+
+Best regards,
+Josh Hughes

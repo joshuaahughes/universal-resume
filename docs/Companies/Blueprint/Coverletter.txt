@@ -1,0 +1,19 @@
+Josua Hughes
+josh@datagainz.com
+(970) 778-8405
+June 23, 2025
+
+Blueprint Technologies
+Hiring Manager
+Bellevue, WA
+
+Dear Hiring Manager,
+
+When I discovered Blueprint's Technical Support Engineer position through your careers page, I was immediately drawn to your mission of bridging strategy and execution through cutting-edge technology. Your emphasis on solving complicated problems with diverse, passionate teams resonates deeply with my experience building scalable solutions that directly impact business outcomes.
+In my current role as Junior Full Stack Developer at Information Technology Solutions, I've spent over three years providing enterprise-level technical support across Microsoft 365, Azure, and cloud identity management. What excites me most about this challenge is the complexity—I regularly handle multiple support cases daily, from troubleshooting Exchange Online migrations to resolving Azure authentication issues for healthcare clients. Recently, I led the resolution of a critical cloud security incident affecting 200+ users, collaborating with Microsoft Premier Support to implement a comprehensive fix that reduced similar incidents by 85%. My experience with Microsoft BackOffice technologies, combined with hands-on database management across PostgreSQL and SQL Server, positions me perfectly for your Tier 3 escalation environment.
+
+What particularly draws me to Blueprint is your commitment to transforming existing assets into new revenue streams. My entrepreneurial background with AlgoPulse Research demonstrates this mindset—I built automated trading systems that generated consistent profits while developing customer-facing platforms that improved retention by 200%. This experience taught me that exceptional technical support isn't just about fixing problems; it's about understanding how technology solutions drive business value. Your collaborative approach to working with delivery partners and internal teams mirrors my experience coordinating cross-functional efforts to deliver cohesive customer experiences.
+I'm excited about the opportunity to bring my passion for root cause analysis and customer-focused problem-solving to Blueprint's dynamic team. I'd welcome the chance to discuss how my technical expertise and collaborative approach can contribute to your continued success.
+
+Sincerely,
+Josh Hughes

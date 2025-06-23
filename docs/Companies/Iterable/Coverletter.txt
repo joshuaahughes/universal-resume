@@ -1,0 +1,14 @@
+Dear Iterable Hiring Team,
+
+When I discovered Iterable's Technical Support Engineer position through your careers page, I was immediately drawn to your mission of creating "joyful customer experiences" through AI-powered engagement. As someone who has spent the last three years building internal tools and providing technical support while earning Employee of the Year recognition twice, I'm excited about the opportunity to bring my problem-solving expertise to support your customer-facing teams.
+
+What particularly resonates with me is Iterable's focus on building internal tools that enhance operational efficiency. In my current role at Information Technology Solutions, I've developed custom automation scripts using PowerShell that have saved over 100 hours of company time, directly addressing the type of manual work reduction your team values. My experience with API integrations—including Microsoft Teams bookings API and Twilio—has taught me how to debug complex workflows and troubleshoot issues across multiple platforms. I'm proficient in JavaScript, TypeScript, and Python, which aligns perfectly with your scripting and programming requirements.
+
+My background spans exactly what this role demands: advanced technical investigation, database querying across PostgreSQL and other systems, and cross-functional collaboration with engineering teams. Having built and deployed applications across web, iOS, and Android platforms, I understand the front-end technologies and browser developer tools essential for debugging customer issues. Additionally, my experience constructing production server environments using CI/CD practices has given me deep insight into the infrastructure challenges that support teams often navigate.
+
+I'm particularly excited about Iterable's commitment to innovation and your recognition as one of Inc's Best Workplaces. Your emphasis on Trust, Growth Mindset, Balance, and Humility aligns with my approach to technical support—always learning, always improving, and always putting the customer first.
+
+I'd welcome the opportunity to discuss how my technical expertise and passion for building efficient solutions can contribute to Iterable's continued success.
+
+Best regards,
+Josh Hughes

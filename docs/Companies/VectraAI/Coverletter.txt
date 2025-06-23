@@ -1,0 +1,14 @@
+Dear Vectra AI Hiring Team,
+
+I was immediately drawn to the Technical Support Engineer position at Vectra AI, particularly your leadership in AI-driven threat detection and your recognition as "Most Innovative Emerging Company" at Black Hat. As someone who has spent over three years providing technical support and escalation services while building secure, multi-platform applications, I'm excited about the opportunity to bring my problem-solving expertise to support your cutting-edge Cognito platform and global customer base.
+
+Your emphasis on deep diagnosis of customer issues and third-tier support perfectly aligns with my experience at Information Technology Solutions, where I've served as an internal escalation point for high-complexity support issues while providing direct technical support to customers. My expertise in Linux-based systems through production server builds and configuration, combined with my strong understanding of TCP/IP networking from configuring Cisco routers and VPN troubleshooting, directly supports your requirements for network protocol analysis and enterprise system management. Additionally, my experience with SQL databases including PostgreSQL optimization and my scripting proficiency in Python and PowerShell demonstrate the technical foundation needed for complex customer issue resolution.
+
+What excites me most about this role is the opportunity to work with advanced security technologies while contributing to Vectra's support organization development. My background building cloud and on-premises production server environments using CI/CD practices and Azure resources gives me the virtual and cloud environment exposure essential for supporting your hybrid customer deployments. Having developed multi-platform applications with complex API integrations, including Microsoft Teams and Twilio, I understand the challenges of data interchange between dissimilar systems—a skill directly applicable to diagnosing customer integration issues.
+
+I'm particularly impressed by Vectra AI's culture of "customer first, no drama teamwork" and your commitment to solving hard problems. Your emphasis on challenging the status quo resonates with my approach to technical innovation, evidenced by creating automation scripts that saved over 100 hours of company time and earning Employee of the Year recognition twice. While my experience spans three years rather than the preferred five, my proven ability to serve as the go-to technical expert for colleagues and my track record of delivering positive customer experiences position me well to grow into this senior role.
+
+I'd welcome the opportunity to discuss how my technical expertise and passion for customer success can contribute to Vectra AI's mission of empowering security teams worldwide.
+
+Best regards,
+Josh Hughes
