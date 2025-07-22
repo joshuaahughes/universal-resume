@@ -31,12 +31,12 @@
   }
 
   html {
-    font-size: 12.288px !important;
+    font-size: 11px !important;
   }
 }
 
 html {
-  font-size: 13.176471px;
+  font-size: 11px;
 }
 
 /* For Letter size */
@@ -72,6 +72,7 @@ html {
     font-size: 16px;
   }
 }
+
 
 .initials-container {
   min-width: 2.31rem;

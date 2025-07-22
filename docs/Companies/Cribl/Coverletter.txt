@@ -1,0 +1,14 @@
+Dear Cribl Hiring Manager,
+
+When I discovered the Senior Support Engineer position at Cribl, I was immediately drawn to your mission of unlocking the value of all observability data. As someone who's spent nearly four years providing enterprise-level support while building distributed systems that process massive data volumes, I'm excited about the opportunity to help your customers harness the unprecedented level of observability and control that Cribl Stream provides.
+
+In my current role at Information Technology Solutions, I've developed the exact blend of technical expertise and customer-first mentality you're seeking. I regularly research, diagnose, and troubleshoot complex issues across distributed systems, providing extraordinary technical support through multiple channels including direct customer meetings, email, and real-time communication platforms. My experience spans Linux environments, AWS and Azure cloud platforms, and comprehensive networking troubleshooting—skills that directly align with supporting enterprise customers deploying Cribl in large-scale environments. What sets me apart is my commitment to setting achievable expectations while delivering solutions; this approach earned me Employee of the Year recognition in both 2022 and 2024.
+
+Your emphasis on knowledge sharing particularly resonates with me. I've consistently created knowledge base articles and internal documentation to empower teams and streamline operations. At AlgoPulse Research, I built learning platforms with interactive content, demonstrating my ability to translate complex technical concepts into accessible resources. My JavaScript and regex experience, combined with my background in data processing systems, positions me well to develop deep technical understanding of Cribl Stream while contributing to your collaborative team culture. I'm passionate about working on complex technical issues—my trading systems handle real-time data analysis and pattern detection at scale, experience that translates directly to observability data challenges.
+
+The opportunity to join a fast-growing, remote-first company backed by Sequoia and CRV, while helping customers unlock their data's potential, is genuinely compelling. I'm ready to embrace the on-call responsibilities and contribute to shipping phenomenal products.
+
+Thank you for considering my application. I look forward to discussing how my enterprise support experience can help drive Cribl's continued success.
+
+Best regards,
+Josh Hughes

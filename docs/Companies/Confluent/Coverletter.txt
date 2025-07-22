@@ -1,0 +1,14 @@
+Dear Confluent Hiring Manager,
+
+When I discovered the Technical Support Engineer position at Confluent, I was immediately captivated by your mission to create an entirely new category within data infrastructure. As someone who's spent years building distributed systems and helping organizations harness data's transformative power, I'm excited about the opportunity to help customers unlock the full potential of the Confluent Data Stream Platform while contributing to this revolutionary field.
+
+In my current role at Information Technology Solutions, I've developed extensive experience resolving customer issues across complex technical environments. I regularly troubleshoot applications running on Linux, diagnosing everything from resource contention to network bottlenecks while maintaining production systems. My work building a multi-platform telehealth application required deep operational knowledge of distributed architectures, integrating APIs across multiple services while ensuring seamless data flow—experience that translates directly to helping customers succeed with their Confluent deployments. What energizes me most is the direct customer interaction aspect; earning Employee of the Year recognition twice came from my dedication to making customers successful through patient problem-solving and clear communication.
+
+Your emphasis on process development particularly resonates with me. At AlgoPulse Research, I've built systems from the ground up, creating automated trading platforms using Python and C# while establishing scalable workflows that grew our user base efficiently. My experience with SQL optimization and database management across PostgreSQL and Oracle environments, combined with my programming proficiency in Java, Python, and C#, positions me well to contribute to your engineering team's product feedback loop. I'm particularly drawn to Confluent's collaborative culture—my background creating knowledge base articles and internal tooling to streamline operations aligns perfectly with your team-first approach.
+
+The opportunity to become a domain expert in streaming data while working closely with the Apache Kafka team is genuinely thrilling. I'm ready to roll up my sleeves and help chart Confluent's path forward.
+
+Thank you for considering my application. I'm eager to discuss how my technical background can contribute to Confluent's enormous potential.
+
+Best regards,
+Josh Hughes
