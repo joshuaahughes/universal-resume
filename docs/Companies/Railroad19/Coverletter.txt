@@ -1,0 +1,17 @@
+Dear Hiring Manager,
+
+I'm writing to apply for the Cloud Full Stack Python Developer position at Railroad19. Your focus on bringing only an "A" team to the table caught my attention, and I believe my background aligns well with what you're looking for.
+
+I've been building production software for over three years, working across the full stack and leading technical decisions. At Information Technology Solutions, I designed and delivered a multi-platform telehealth application that serves thousands of users. The role required me to architect scalable solutions, write maintainable code, and make technical decisions that balanced immediate needs with long-term sustainability.
+
+While my primary languages have been TypeScript, JavaScript, and C#, I've worked extensively with Python for infrastructure automation and internal tooling. At my current role, I implemented Infrastructure as Code using Python and TerraformCDK with Azure, which significantly improved our deployment reliability. I understand cloud architectures deeply and have experience designing systems that scale.
+
+I work with PostgreSQL databases daily and have experience across multiple database systems including SQL Server, SQLite, and Oracle. I've built RESTful APIs, integrated complex third-party services, and architected microservices that handle real-time communication. My work with Hasura and GraphQL backends has given me a solid understanding of how to build efficient, scalable data layers.
+
+What resonates with me about Railroad19 is your emphasis on being thought leaders and advisors to clients. I've collaborated closely with stakeholders who don't speak technical language, translating business requirements into technical solutions. At AlgoPulse Research, I founded and led the technical direction for a trading platform, working directly with customers to understand their needs and deliver solutions that worked.
+
+I'm comfortable working autonomously and taking ownership of projects from concept through deployment. I've mentored other engineers, conducted code reviews, and advocated for best practices including automated testing and CI/CD pipelines. I understand what it takes to deliver working software that people depend on.
+
+I'm a US citizen based in Grand Junction, Colorado, so the remote position works perfectly. I'm excited about the opportunity to contribute to Railroad19's mission of delivering top-tier development services.
+
+I'd welcome the chance to discuss how my experience could add value to your team.

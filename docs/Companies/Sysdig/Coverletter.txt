@@ -1,0 +1,23 @@
+Dear Hiring Manager,
+
+Your opening line about cloud security being a promise, not a compromise - that resonated. I've spent enough time building systems that handle sensitive data to know the weight of that responsibility, and honestly, it's what gets me excited about coming to work.
+
+I'm reaching out about the Software Engineer role at Sysdig because what you're building matters. I've worked with containerized applications deployed on cloud platforms, and I've felt firsthand the anxiety of wondering if your security posture is actually protecting what it should. The idea of building tools that give teams real-time clarity - that's the kind of impact I want to have.
+
+At Information Technology Solutions, I built a telehealth platform where security wasn't optional. We were handling protected health information, integrating with multiple APIs, and deploying across web and mobile platforms. I worked extensively with React and TypeScript to create interfaces that users actually wanted to use, not just interfaces that technically worked. There's a huge difference, and it comes down to sweating the details - smooth animations, clear error states, intuitive flows that don't require documentation to understand.
+
+What I love about frontend work is the immediate feedback loop. You write code, you see it come alive in the browser, and you know instantly if you've made something good or something that needs another pass. I've built component libraries that other developers on my team used, and there's something satisfying about creating abstractions that make everyone's job easier. Good components aren't just reusable - they're intuitive enough that someone can pick them up without needing to ask you how they work.
+
+I'll be honest - my experience with Kubernetes and container security concepts is growing but not deep. I've worked with Docker, deployed containerized applications to Azure, and set up CI/CD pipelines that handle the orchestration. But the security side of containers - threat detection, runtime insights, the kind of stuff Falco does - that's where I want to learn more. That's actually a big part of why this role excites me. I want to work on problems that matter, with people who understand this space better than I do.
+
+Your emphasis on culture and open dialogue stands out to me. I've worked in places where disagreement felt risky, and I've worked in places where honest conversation made everything better. The difference is night and day. Some of my best work has come from someone challenging my approach and forcing me to think harder about why I was solving a problem a certain way. That's the kind of environment where I do my best work.
+
+At AlgoPulse, I built trading systems from scratch where performance mattered deeply. Users needed real-time data, and any lag or jank in the UI meant they might miss opportunities. That experience taught me to think about performance not as an afterthought but as a core feature. I profile my code, I measure render times, and I optimize the things that actually matter rather than prematurely optimizing everything.
+
+What draws me to Sysdig is the combination of technical challenge and meaningful impact. You're not just building another dashboard - you're building tools that help teams secure their infrastructure and sleep better at night. That's work worth doing. And doing it alongside people who value honesty, integrity, and mutual respect sounds like exactly where I want to be.
+
+I'd love to talk more about how I could contribute to your frontend team and grow into the cloud security space with you.
+
+Thanks for reading,
+
+Josh Hughes

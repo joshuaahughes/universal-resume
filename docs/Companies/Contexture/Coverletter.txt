@@ -1,0 +1,19 @@
+Dear Hiring Manager,
+
+I'm writing to apply for the Systems Administrator position at Contexture. When I saw this role was based in Grand Junction, where I currently live, and focused on maintaining secure, highly available infrastructure, I knew I had to reach out.
+
+I've spent the past Four years at Information Technology Solutions working across every layer of IT infrastructure. I was recognized as Employee of the Year in both 2022 and 2024, which reflected my ability to deliver reliable solutions and support our users effectively. I've owned and resolved technical challenges across heterogeneous environments including macOS, Linux, Unix, Windows Server, iOS, and Android platforms.
+
+My experience maps directly to what you're looking for. I've managed Active Directory users, groups, permissions, and group policy configurations. I built PowerShell automation scripts that saved over 100 engineering hours annually while improving consistency and reducing errors. I've architected and maintained network infrastructure using Cisco and Unifi equipment, managed VPN infrastructure, and handled complex database migrations across multiple systems.
+
+Security is something I take seriously. I've worked in environments containing sensitive healthcare data, implementing proper patching schedules and maintaining secure system configurations. I understand the importance of endpoint protection, firewall management, and maintaining documentation for compliance and audits.
+
+What sets me apart is my approach to service delivery. I've provided technical leadership while maintaining a customer service mindset. I've mentored team members, served as an escalation point for complex issues, and worked cross-functionally to deliver solutions that meet business needs. I'm comfortable troubleshooting end-to-end connectivity issues, researching and resolving post-production problems, and communicating technical details to stakeholders at all levels.
+
+I've designed and maintained scalable cloud infrastructure implementing CI/CD best practices. I've driven the adoption of Infrastructure as Code using Python and TerraformCDK with Azure resources, which improved deployment reliability significantly. I understand high availability principles and have experience with backup and recovery procedures.
+
+I'm already local to Grand Junction, so there's no relocation needed. I'm comfortable with on-call rotations and after-hours work when deployments or incidents require it. I'm self-directed, detail-oriented, and enjoy solving complex problems that keep systems running smoothly.
+
+I'd welcome the opportunity to discuss how my experience maintaining secure, reliable infrastructure could support Contexture's HIE operations.
+
+Josh Hughes

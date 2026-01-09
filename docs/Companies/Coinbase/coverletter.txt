@@ -1,0 +1,26 @@
+Dear Coinbase Hiring Team,
+
+It's honestly a dream of mine to work for your company.
+
+I'm writing to express my strong interest in the System Engineer position on your IT Operations Corporate Engineering team. Your mission to increase economic freedom through blockchain technology resonates deeply with me—not just as a technical challenge, but as an opportunity to fundamentally reshape how the world interacts with financial systems. I'm drawn to Coinbase precisely because you're solving the hardest problems in the space, and I want to be in the arena doing the same.
+
+I thrive under pressure and actively seek the discomfort that comes with ambitious goals. As a two-time Employee of the Year at Information Technology Solutions, I've consistently volunteered for the projects others hesitate to touch. When our organization needed a multi-platform telehealth application built from scratch, I drove it from concept to production across iOS, Android, and web—architecting complex integrations with Microsoft Teams and Twilio while serving thousands of patients. When legacy systems were failing across heterogeneous environments, I owned the resolution across macOS, Linux, Unix, Windows Server, iOS, and Android platforms. I didn't just fix problems; I rebuilt foundations.
+
+My experience directly aligns with your IAM requirements. I've spent years managing identity systems across enterprise environments, including Active Directory Domain Controller management, implementing robust authentication and authorization systems, and building automation that eliminates manual inefficiencies. I've designed and maintained cloud infrastructure using Infrastructure as Code with Python and TerraformCDK on Azure, implementing CI/CD pipelines that improved deployment reliability while reducing configuration errors. My PowerShell automation scripts have saved over 100 engineering hours annually in group policy configuration and system provisioning—exactly the kind of operational efficiency you need at scale.
+
+Security-first thinking is embedded in everything I build. Whether architecting webhook infrastructure for real-time financial trading signals at AlgoPulse Research or implementing VPN infrastructure and network architecture (Cisco/Unifi), I approach every system with the mindset that security cannot be bolted on—it must be foundational. I understand that at Coinbase, a single IAM misconfiguration could have catastrophic consequences, and I treat that responsibility with the gravity it deserves.
+
+I bring the technical depth you're seeking. My polyglot programming background (TypeScript, JavaScript, Python, C#, Dart, SQL, GraphQL, PowerShell, Bash) means I can quickly adapt to your stack and contribute immediately. I've worked extensively with cloud environments (Azure), containerization, and modern DevOps practices. Beyond corporate IT, I've pushed myself into deep technical domains—developing from-scratch diffusion models for financial forecasting, architecting FinGPT (an autoregressive transformer-based predictor), and building hybrid mixture-of-experts systems. I pursue challenging technical problems because that's where growth happens.
+
+I communicate clearly and document obsessively. I know that in distributed, security-critical systems, clarity isn't optional—it's existential. I've created comprehensive documentation across system lifecycles, led cross-functional collaborations with designers, marketers, and sales teams, and mentored junior engineers on architecture patterns and debugging techniques. I understand that being smart means nothing if you can't translate complexity into action for others.
+
+I want to be pushed beyond what I think I'm capable of. I'm not looking for work-life balance in the conventional sense—I'm looking for work-life integration around problems that matter. The intensity of Coinbase's culture isn't a warning to me; it's a feature. I want to be surrounded by people who are better than me in their domains, who will challenge my assumptions, and who expect excellence as baseline. I actively seek feedback because I know my current ceiling is just the next floor.
+
+Why Coinbase, specifically? Because you're not building incrementally better banking software. You're building the infrastructure for a fundamentally different financial paradigm. Because your problems are genuinely hard: scaling identity systems for a rapidly growing, highly regulated, global company operating in an emerging technology space. Because when I think about where I want to be in five years, I see someone who helped millions of people access economic opportunity that was previously locked away from them.
+
+I understand the stakes. I understand the pressure. I understand that this role will demand more from me than I've given before. That's exactly what I'm looking for.
+
+I'm ready to run toward Coinbase's hardest IAM problems. Let's talk about how I can contribute to increasing economic freedom in the world.
+
+Thank you for your consideration.
+Josh Hughes

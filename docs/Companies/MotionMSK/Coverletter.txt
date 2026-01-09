@@ -1,0 +1,23 @@
+Dear Hiring Manager,
+
+I'm reaching out about the Software Engineer role at Motion, and I have to admit - helping patients navigate healthcare hits close to home for me. I built a telehealth platform at my current job, and there's something incredibly grounding about writing code that directly impacts someone's ability to get the care they need.
+
+At Information Technology Solutions, I've been living the full-stack life for the past few years. I built a multi-platform application using TypeScript and React on the frontend, with a robust backend handling everything from appointment scheduling to secure messaging between patients and providers. The work taught me that healthcare software isn't just about making things work - it's about making them work reliably, securely, and in a way that doesn't add stress to someone's already stressful day.
+
+I'll be transparent - my backend experience is primarily in TypeScript, Python, and C#, not Kotlin. But here's the thing: I've switched languages and frameworks multiple times in my career, and each time I've found that strong fundamentals matter more than syntax. When I needed to learn new technologies for projects, I didn't wait around for someone to teach me. I dove into documentation, built small projects to test concepts, and asked questions when I got stuck. That's how I'd approach ramping up on Kotlin and Spring.
+
+What excites me about Motion is your emphasis on ownership and operational excellence. At AlgoPulse, I built trading systems where downtime literally cost users money. That experience made me obsessive about monitoring, testing, and having clear rollback strategies. I implemented automated alerts that caught issues before users did, and I participated in on-call rotations where 3am wake-ups taught me the value of writing code that's easy to debug under pressure.
+
+Your focus on collaborative work resonates deeply with me. Some of my best solutions have come from pairing with other engineers or having honest conversations with product managers about what users actually need versus what they're asking for. I've learned that being a good engineer isn't just about writing clever code - it's about communicating clearly, accepting feedback gracefully, and helping others succeed.
+
+The growth mindset piece is what really drew me to apply. I'm at a point in my career where I want to be challenged, where I want to work alongside people who are better than me at things so I can level up. I've seen what happens when you get comfortable, and I'm actively avoiding that. I want to be somewhere that pushes me to be better while giving me the space to make mistakes and learn from them.
+
+Working on infrastructure with AWS and Terraform is something I've done in my current role, though I'm always looking to deepen that knowledge. I've deployed containerized applications, set up CI/CD pipelines, and learned that the best infrastructure is the kind you barely notice because it just works. Security isn't an afterthought for me - it's baked into how I approach every system I build.
+
+What I love about Motion's mission is that you're solving real problems for real people. Healthcare is complicated and often frustrating, and building tools that make it even slightly less painful feels like work worth doing. That's the kind of impact I want to have.
+
+I'd genuinely love to talk more about how I could contribute to your team and learn from the engineers you've already built there.
+
+Thanks for taking the time to read this,
+
+Josh Hughes

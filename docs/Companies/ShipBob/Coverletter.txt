@@ -1,0 +1,19 @@
+Dear Hiring Manager,
+
+I'm writing to apply for the Software Development Engineer II position at ShipBob. Your emphasis on ownership, continuous learning, and drama-free launches resonates with how I approach software development.
+
+I've spent the past three years building production software that people depend on daily. At Information Technology Solutions, I was recognized as Employee of the Year in both 2022 and 2024, which reflected my ability to deliver reliable solutions on time while maintaining high quality standards. I led the development of a multi-platform telehealth application from concept to production, serving thousands of users across iOS, Android, and web platforms.
+
+My technical background aligns perfectly with what you're looking for. I work daily with C#, SQL, TypeScript, and JavaScript. I've architected systems using PostgreSQL databases, built RESTful APIs, and integrated complex third-party services including Microsoft Teams Bookings API and Twilio. I understand how to scope work into well-defined milestones and deliver incrementally rather than building monolithic features that risk everything on a single launch.
+
+What sets me apart is my approach to ownership. I don't just write code and hand it off. I own the technical testing plan, identify technical debt before it becomes a problem, and take initiative to solve issues that affect the team. I've driven the adoption of Infrastructure as Code using Python and TerraformCDK with Azure, implementing CI/CD pipelines that improved our deployment reliability significantly. I understand that testing isn't someone else's responsibility, it's part of building software that works.
+
+I've worked in fast-paced environments where I needed to balance technical quality with business needs. At AlgoPulse Research, I founded and led the technical direction for a trading platform, making architectural decisions that balanced immediate requirements with long-term maintainability. I understand the tradeoffs between technical, analytical, and product needs, and I generate solutions that account for all of them.
+
+Collaboration is something I value deeply. I've worked closely with product managers, designers, and stakeholders to translate requirements into technical solutions. I've mentored engineers, conducted code reviews, and communicated technical standards to get team buy-in. I believe in transparency and open communication, and I'm known for delivering on my estimates.
+
+I have experience with Microsoft Azure, event-driven architectures, and building scalable microservices. I'm comfortable becoming the go-to expert in areas of the codebase while understanding the broader system architecture.
+
+I'm based in Colorado, so the remote position works perfectly. I'd welcome the opportunity to discuss how my experience could contribute to ShipBob's mission.
+
+Josh Hughes

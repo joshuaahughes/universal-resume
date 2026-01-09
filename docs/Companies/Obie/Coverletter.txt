@@ -1,0 +1,23 @@
+Dear Hiring Manager,
+
+I'm reaching out about the Full-Stack Engineer role at Obie, and I have to say - your description of "hard work, high standards, real impact" is exactly what I've been chasing throughout my career. I'm not looking for a place to coast. I want to build things that matter.
+
+At Information Technology Solutions, I've been doing exactly what you're describing. I built a telehealth application using React and TypeScript on the frontend with a robust Node.js backend and PostgreSQL database. We deployed multiple times per week because waiting around to ship features felt like wasting time. I wrote the tests, reviewed the code, owned the tech debt, and made sure what we shipped actually worked. That end-to-end ownership is how I prefer to work - when something breaks at 2am, I want to be the person who can fix it because I built it right the first time.
+
+Your emphasis on moving fast and shipping faster resonates deeply. At AlgoPulse, I built trading systems from scratch where speed wasn't a nice-to-have, it was everything. I architected APIs that needed to process real-time data, built dashboards that users checked every single day, and automated workflows that saved our small team hundreds of hours. When you're building a business from zero, you learn quickly that perfect is the enemy of done - but done doesn't mean sloppy. It means shipping quality work fast and iterating based on what you learn.
+
+The API integration piece you mentioned - turning archaic systems into elegant, real-time integrations - that's been a huge part of my work. I integrated Microsoft Teams, Twilio, and Mapbox APIs into our healthcare platform, and each one had its quirks and documentation gaps. I learned to read between the lines, test edge cases obsessively, and build integrations that just worked even when the systems on the other end were unpredictable.
+
+I work with the exact stack you're using - React, Node.js, TypeScript, relational databases. I've set up CI/CD pipelines using Docker and Azure DevOps, written comprehensive test suites that actually catch bugs, and built component libraries that made our whole team more productive. But more importantly, I understand why these tools matter. TypeScript catches errors before they hit production. Tests give you confidence to refactor. Good CI/CD means shipping fast without breaking things.
+
+Your point about this role not being for everyone - I get it. Some people want clearly defined tickets and predictable work. I want problems that need solving and the freedom to figure out the best way to solve them. When our customer retention dropped at AlgoPulse, I didn't wait for someone to tell me what to do. I instrumented the entire user flow, analyzed the data, identified where people were dropping off, and rebuilt the experience. Retention doubled. That's the kind of ownership and bias for action I bring.
+
+What excites me about Obie is the combination of real-world impact and technical challenge. Insurance isn't sexy, but helping real estate investors protect their properties and scale their businesses - that matters. And doing it by building elegant solutions on top of archaic systems sounds like exactly the kind of problem I want to tackle.
+
+I thrive in fast-moving environments where collaboration matters and where showing up for each other isn't just a value statement on the wall. Some of my best work has come from pairing with other engineers, having honest conversations about trade-offs, and collectively deciding that good enough to ship today beats perfect six months from now.
+
+I'd love to talk more about how I could contribute to what you're building at Obie. Not just about the technical skills - you can see those on my resume - but about how I approach problems, how I work with teams, and why this role feels like exactly where I should be.
+
+Thanks for reading,
+
+Josh Hughes

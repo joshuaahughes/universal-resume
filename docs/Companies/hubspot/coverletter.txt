@@ -1,0 +1,18 @@
+Dear Hiring Manager,
+
+I'm writing to express my strong interest in the Senior Software Engineer (Level II) position. What excites me most about this opportunity is the emphasis on balancing technical excellence with meaningful impact; an approach that has defined my career trajectory and led to recognition as Employee of the Year in both 2022 and 2024.
+
+Over the past four years, I've built a track record of taking ambiguous challenges and transforming them into scalable, production-ready systems. When tasked with creating a telehealth platform from the ground up, I didn't just write code—I architected a multi-platform solution integrating Microsoft Teams, Twilio, and custom Mapbox implementations that serves thousands of patients. This required navigating technical complexity across iOS, Android, and web while making strategic decisions about technology choices, system architecture, and long-term maintainability with minimal oversight.
+
+I believe the best engineers elevate those around them. Through code reviews, design discussions, and hands-on mentorship, I've helped junior engineers develop their problem-solving skills and technical judgment. My PowerShell automation scripts that saved 100+ hours weren't just about efficiency—they became teaching opportunities for the team to understand infrastructure-as-code principles. When I advocate for CI/CD best practices or push for better testing coverage, it's about raising our collective standards and ensuring sustainable solutions.
+
+My work at AlgoPulse Research demonstrates my ability to wear multiple hats—driving technical decisions as founder while building a quantitative trading platform that achieves measurable results (48% win rate, 2.3 profit factor). I've learned to balance immediate customer needs with long-term technical debt, designing systems that can evolve without requiring complete rewrites. Whether it's implementing secure webhook infrastructure or engineering automated onboarding systems that doubled retention rates, I focus on solutions that deliver business value while maintaining technical integrity.
+
+I'm energized by technical challenges that push my boundaries. My ongoing research in quantitative finance—exploring ARIMA models, GARCH implementations, and Fourier Transform applications—reflects my passion for continuous learning. I'm eager to bring this same curiosity to your team, whether that means deepening expertise in specific domains, mastering new platforms, or eventually transitioning toward technical leadership roles like Tech Lead or Staff Engineer.
+
+Your description of a Senior Engineer who "drives high-impact outcomes through reusable solutions and knowledge sharing" resonates deeply with how I approach my work. I'm looking for a team where I can continue growing as both an individual contributor and technical leader—contributing to architectural decisions, mentoring colleagues, and owning complex projects that matter.
+
+I'd welcome the opportunity to discuss how my experience designing scalable systems, leading cross-functional initiatives, and fostering technical excellence aligns with your team's needs. Thank you for considering my application.
+
+Warm Regards,
+Josh Hughes
